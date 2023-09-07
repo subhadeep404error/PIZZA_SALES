@@ -1,0 +1,1 @@
+In this project i finded the insights from pizza sales data firstly we have developed the kpis and various charts and i have also fired queries in sql server and checked the accuracy of the results and finaly i have build one interactive dashboard.
